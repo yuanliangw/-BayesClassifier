@@ -1,0 +1,5 @@
+<30 medium yes fair
+>40 high no excellent
+30-40 low no excellent
+>40 high no fair
+<30 medium no fair
